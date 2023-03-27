@@ -598,7 +598,7 @@ SPEC CHECKSUMS:
   CocoaAsyncSocket: 065fd1e645c7abab64f7a6a2007a48038fdc6a99
   DoubleConversion: 5189b271737e1565bdce30deb4a08d647e3f5f54
   FBLazyVector: 7535385263ed499b9965ac22d69880407591c6b0
-  FBReactNativeSpec: c47c5f21485b1323a9b013eb2ab4980cf19e80f4
+  FBReactNativeSpec: a0f6b68f64e6c5daa9266a223a8052bc26c8a7c7
   Flipper: 6edb735e6c3e332975d1b17956bcc584eccf5818
   Flipper-Boost-iOSX: fd1e2b8cbef7e662a122412d7ac5f5bea715403c
   Flipper-DoubleConversion: 2dc99b02f658daf147069aad9dbd29d8feb06d30
@@ -638,7 +638,7 @@ SPEC CHECKSUMS:
   React-RCTSettings: 4e7769cebc15b7135b48d546c13a8d94e8db499c
   React-RCTText: 3ac66e6c2c53c776026353967bfec8705812be9a
   React-RCTVibration: 590a671ee566380a5c1ef078a0987ee90f137339
-  React-rncore: fbce6123646a417271380cc9600fd63ca0f5ede6
+  React-rncore: 0ac1084f0214956104bfffb835e0eaec95803c7a
   React-runtimeexecutor: bfc8c8e465df1df844dd6f4ec6d4515825f1cd4b
   ReactCommon: f2634f50e79e36b05df86dc07a4d83b4e226d723
   SocketRocket: fccef3f9c5cedea1353a9ef6ada904fde10d6608
@@ -647,4 +647,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 4d5bad32bd5622068360df164a2409bef51ce48e
 
-COCOAPODS: 1.12.0
+COCOAPODS: 1.11.3

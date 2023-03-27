@@ -1,0 +1,8 @@
+{
+  "name": "@myproject/workspace-root",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/robhogan/react-xplat-monorepo",
+  "author": "Rob Hogan <rob@rhogan.net>",
+  "license": "MIT"
+}
